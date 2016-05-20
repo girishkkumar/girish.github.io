@@ -4,7 +4,8 @@ title: "Zookeeper Installation"
 date: 2016-05-20
 ---
 * * *
-To install ZooKeeper framework on your machine, visit the following link and download the latest version of ZooKeeper 
+To install ZooKeeper framework on your machine, visit the following link and download the latest version of ZooKeeper.
+
 * * *
 
 [Zookeeper Download Link](http://zookeeper.apache.org/releases.html)
