@@ -1,4 +1,5 @@
 name: Girish Kumar K
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
-baseurl: /girishkkumar
+baseurl: ""
+paginate_path: /page:num
