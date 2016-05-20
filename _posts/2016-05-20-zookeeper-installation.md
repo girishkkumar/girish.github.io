@@ -34,6 +34,7 @@ export PATH=$PATH:$ZK_HOME/bin
 ```
 
 save the bashrc file and source it.
+
 ```
 $ source ~/.bashrc
 ```
