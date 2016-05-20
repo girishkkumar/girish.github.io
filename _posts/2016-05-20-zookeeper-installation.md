@@ -3,7 +3,7 @@ layout: post
 title: "Zookeeper Installation"
 date: 2016-05-20
 ---
-![My helpful screenshot]({{ site.url }}/assets/screenshot.jpg)
+![My helpful screenshot]({{ site.url }}/img/Girish.jpg)
 
 To install ZooKeeper framework on your machine, visit the following link and download the latest version of ZooKeeper. 
 
