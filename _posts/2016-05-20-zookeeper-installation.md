@@ -3,20 +3,20 @@ layout: post
 title: "Zookeeper Installation"
 date: 2016-05-20
 ---
-![My helpful screenshot]({{ site.url }}/img/Girish.jpg)
-
+* * *
 To install ZooKeeper framework on your machine, visit the following link and download the latest version of ZooKeeper. 
+* * *
+[Zookeeper Download Link](http://zookeeper.apache.org/releases.html)
 
-http://zookeeper.apache.org/releases.html
 
 Extract the tar file using the following commands −
-```
+``
 $ cd /home/<user>/
 $ mkdir zookeeper
 $ cd zookeeper
 $ tar zxvf zookeeper-3.4.8.tar.gz
 $ cd zookeeper-3.4.8
-```
+``
 The location where the ZooKeeper archive is extracted in our case, /home/***user***/zookeeper/zookeeper-3.4.8 , can be exported as ZK_HOME as follows:
 
 ```
