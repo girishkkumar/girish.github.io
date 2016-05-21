@@ -40,6 +40,8 @@ save the bashrc file and source it.
 $ source ~/.bashrc
 ```
 
+
+
 To start the servers individually run the below commands
 
 ```
