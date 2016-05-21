@@ -55,7 +55,7 @@ It is possible to check whether a ZooKeeper server is a leader or follower using
 echo srvr | nc localhost 2181 | grep Mode
 ```
 
-If the ZooKeeper server is a leader then the command will return: Mode: leader and otherwise: Mode: follower
+If the ZooKeeper server is a leader then the command will return: ***Mode: leader*** and otherwise: ***Mode: follower***
 
 
 To stop the servers individually run the below commands
