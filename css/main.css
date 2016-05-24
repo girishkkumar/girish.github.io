@@ -49,9 +49,9 @@ ul.posts li {
 }
 
 img {
-    border-radius:20px;
-    -moz-border-radius:20px;
-    -webkit-border-radius:20px;
-    border:3px solid red;
+    border-radius:10%;
+    -moz-border-radius:10%;
+    -webkit-border-radius:10%;
+    border:1px solid skyblue;
 }
 
