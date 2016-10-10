@@ -32,9 +32,9 @@ To know whether the instance is leader or follower run the below command for all
 
 Once all the server instances are started, run the client command below:
 
-```
-/Apache/zookeeper/zookeeper-3.4.8/bin$ zkCli.sh -server localhost:2181,localhost:2182,localhost:2183
-```
+
+> /Apache/zookeeper/zookeeper-3.4.8/bin$ zkCli.sh -server localhost:2181,localhost:2182,localhost:2183
+
 
 to create a zookeeper node
 
@@ -67,6 +67,8 @@ delete /zookeeper2
 ```
 
 starting kafka:
+
+Apache Kafka Quickstart Documentation
 
 ```
 http://kafka.apache.org/documentation.html#quickstart
