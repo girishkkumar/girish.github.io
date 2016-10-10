@@ -33,7 +33,7 @@ To know whether the instance is leader or follower run the below command for all
 Once all the server instances are started, run the client command below:
 
 
-> /Apache/zookeeper/zookeeper-3.4.8/bin$ zkCli.sh -server localhost:2181,localhost:2182,localhost:2183
+> **_/Apache/zookeeper/zookeeper-3.4.8/bin$ zkCli.sh -server localhost:2181,localhost:2182,localhost:2183_**
 
 
 to create a zookeeper node
@@ -80,9 +80,10 @@ http://kafka.apache.org/documentation.html#quickstart
 
 Once kafka gets started, we need to create the topic to post data to it
 
-```
-/Apache/Kafka/kafka_2.11-0.9.0.1/bin$ ./kafka-topics.sh --create --zookeeper localhost:2181 --replication-factor 1 --partitions 1 --topic girishTopic
 
+> **_/Apache/Kafka/kafka_2.11-0.9.0.1/bin$ ./kafka-topics.sh --create --zookeeper localhost:2181 --replication-factor 1 --partitions 1 --topic girishTopic_**
+
+```
 Created topic "girishTopic".
 ```
 
